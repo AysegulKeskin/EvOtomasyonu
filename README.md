@@ -1,4 +1,4 @@
-MySql,Php,Arduino,ESP8266 NodeMCU ve çeşitli Arduino sensörleri kullanılarak telefondan evin alarm sistemini,ışığını,penceresini ve doğalgaz vanasını açıp kapatabileceğiniz,durumunu kontrol edebileceğiniz,ne zaman açıp kapatılmış(log) onu göreceğiniz bir projedir.
+MySql,Php,Arduino,ESP8266 NodeMCU ve çeşitli Arduino sensörleri kullanılarak telefondan evin alarm sistemini,ışığını,penceresini ve doğalgaz vanasını açıp kapatabileceğiniz,durumunu kontrol edebileceğiniz,ne zaman açıp kapatılmış(log) onu göreceğiniz bir projedir..
 
 Projenin Resimleri:
 ![evotomasyonu](https://user-images.githubusercontent.com/118525759/232226107-42cad130-e488-4cf4-9c2a-83f584ee2bf6.png)
